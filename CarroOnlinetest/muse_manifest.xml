@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="teste.com" resolutions="1x" timestamp="1562812791462">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4279745642" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
+    <file name="form-u1590.php" crc="415168294" ref="phone>index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="form-u917.php" crc="332103203" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="auto-automobile-automotive-305070-u1582-fr.jpg" crc="4260236692" ref="phone>index"/>
+    <file name="auto-automobile-automotive-305070.jpg" crc="54866035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="74678962" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="47785843" seo="true" mt="1561415529587" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4289778017" seo="true" mt="1562812759471" redirect="true"/>
+</manifest>
